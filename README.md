@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *PROJECT BACK GENERATING SALES*
 
 "The backend project is built with Fastify. It includes user authentication, functionality to manage stores, products, and purchases, and features to generate yearly, monthly, and weekly sales"
@@ -72,3 +73,7 @@ npm start
 ## Author
 
 Gabriel Louise Beltran
+=======
+# fastify-backend-gabriel-beltran
+BACKEND
+>>>>>>> bb4bc1b6fe283025a0bfe3f192c0dc8470378daa
