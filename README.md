@@ -20,7 +20,7 @@ A backend API built with Fastify, JWT authentication, Sequelize ORM, and Postgre
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/fastify-backend.git
+git clone https://github.com/gabrielbeltran2022/fastify-backend-gabriel-beltran.git
 
 2. Go to the project directory
 
